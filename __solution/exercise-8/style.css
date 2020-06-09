@@ -6,7 +6,7 @@ img {
 }
 
 .img2 {
-  visibility: hidden;
+  display: none;
 }
 
 .img3 {

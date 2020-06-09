@@ -4,4 +4,22 @@ body {
 
 button {
   /* Solve me */
+  padding: 20px 30px;
+  border-radius: 15px;
+  color: white;
+  background-color: blue;
+  outline: none;
+}
+button:hover {
+  background-color: darkblue;
+  box-shadow: 3px 5px 5px grey;
+}
+
+button:focus {
+  background-color: darkblue;
+  box-shadow: 3px 5px 5px grey;
+}
+button:active {
+  transform: scale(0.9,0.9);
+  transition-duration: 0.2s;
 }

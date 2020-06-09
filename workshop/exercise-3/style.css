@@ -1,1 +1,20 @@
 /* ...crickets... */
+*{
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    
+}
+.subtitle {
+    text-align: center;
+    font-size: 1.5rem;
+    
+}
+.content {
+    font-family: Comic Sans MS;
+}
+.emph {
+    font-style: italic;
+}
